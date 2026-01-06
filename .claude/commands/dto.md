@@ -1,0 +1,1 @@
+Automatically generates DTO for a JPA entity.
